@@ -1,12 +1,17 @@
-### Hi there!
+## Hi there! :raised_hands:
+I am a biotechnology and bioinformatics student (FBBB at Jagiellonian University). My interests are primarily focused on biological data analysis, especially microbiome data. Besides, I am learning software testing. I am open for cooperation!
 
+## Contact
 
-Here are some things about me:
+- [E-mail](galat.konstancja@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/konstancja-ga%C5%82at-246978268/)
 
-- 🌱 I am a biotechnology student (FBBB at Jagiellonian University) with some interest in bioinformatics.
-- :blue_book: I program in Python and Bash. I am mostly interested in studying metagenomes (currently I am working on the topic how metagenome changes in various eating disorder).
-- :microscope: I am a member of Mycolab where I study 2 lncRNA - AT5G45470 and AT5G45480.
-- 🔭 I’m currently exploring the secrets of machine learning. 
-- 💬 I am open for cooperation!
-- 📫 How to reach me: konstancja.galat@student.uj.edu.pl, galat.konstancja@gmail.com
-- ⚡ Beside all of this, I am a huge fan of F1 and I love reading books.
+## Tools
+
+- Testing: JIRA, TestLink, BrowserStack, GIT
+- Data analysis: Python ((numpy, pandas, sklearn, plotly), BASH
+- Markup: Markdown, $\LaTeX$
+
+## Courses
+
+- udemy - Practical software testing course
