@@ -8,10 +8,10 @@ I am a biotechnology and bioinformatics student (FBBB at Jagiellonian University
 
 ## Tools
 
-- Testing: JIRA, TestLink, BrowserStack, GIT
-- Data analysis: Python ((numpy, pandas, sklearn, plotly), BASH
+- Testing: JIRA, TestLink, BrowserStack, GIT, HTML5, CSS
+- Data analysis: Python (numpy, pandas, sklearn, plotly), BASH
 - Markup: Markdown, $\LaTeX$
 
 ## Courses
 
-- udemy - Practical software testing course
+- Udemy - Practical software testing course
