@@ -9,7 +9,7 @@ I am a biotechnology and bioinformatics student (FBBB at Jagiellonian University
 ## Tools
 
 - Testing: JIRA, TestLink, BrowserStack, GIT, HTML5, CSS
-- Data analysis: Python (numpy, pandas, sklearn, plotly), BASH
+- Data analysis: Python (numpy, pandas, sklearn, plotly), R, BASH
 - Markup: Markdown, $\LaTeX$
 
 ## Courses
