@@ -1,5 +1,5 @@
 ## Hi there! :raised_hands:
-I am a biotechnology and bioinformatics student (FBBB at Jagiellonian University). My interests are primarily focused on biological data analysis, especially microbiome data. Besides, I am learning software testing. I am open for cooperation!
+I am a biotechnology and bioinformatics student (FBBB at Jagiellonian University). My interests are primarily focused on biological data analysis, especially associated with obesity, mental disorders. Besides, I am learning software testing. I am open for cooperation!
 
 ## Contact
 
