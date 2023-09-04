@@ -1,5 +1,5 @@
 ## Hi there! :raised_hands:
-I am a biotechnology and bioinformatics student (FBBB at Jagiellonian University). My interests are primarily focused on biological data analysis, especially associated with obesity, mental disorders. Besides, I am learning software testing. I am open for cooperation!
+I am a biotechnology and bioinformatics student (FBBB at Jagiellonian University). My interests are primarily focused on biological data analysis, especially associated with obesity and mental disorders. Besides, I am a self-taught software tester. 
 
 ## Contact
 
@@ -8,8 +8,8 @@ I am a biotechnology and bioinformatics student (FBBB at Jagiellonian University
 
 ## Tools
 
-- Testing: JIRA, TestLink, BrowserStack, GIT, HTML5, CSS
 - Data analysis: Python (numpy, pandas, sklearn, plotly), R, BASH
+- Testing: JIRA, TestLink, BrowserStack, GIT, HTML5, CSS
 - Markup: Markdown, $\LaTeX$
 
 ## Courses
