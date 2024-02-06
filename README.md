@@ -1,5 +1,5 @@
 ## Hi there! :raised_hands:
-I am a biotechnology and bioinformatics student (FBBB at Jagiellonian University). My interests are primarily focused on biological data analysis, especially associated with obesity and mental disorders. Besides, I am a self-taught software tester. 
+I am a biotechnology student (FBBB at Jagiellonian University) and bioinformatics enthusiast. In addition to my studies, I am doing an internship at Pawel Labaj's bioinformatics team at the Malopolska Center for Biotechnology My interests are primarily focused on biological data analysis, especially associated with fungi and mycobiome. Besides, I am a self-taught software tester. 
 
 ## Contact
 
@@ -8,10 +8,12 @@ I am a biotechnology and bioinformatics student (FBBB at Jagiellonian University
 
 ## Tools
 
-- Data analysis: Python (numpy, pandas, sklearn, plotly), R, BASH
+- Data analysis: Python (numpy, pandas, sklearn, plotly), R, BASH, Snakemake
 - Testing: JIRA, TestLink, BrowserStack, GIT, HTML5, CSS
 - Markup: Markdown, $\LaTeX$
 
 ## Courses
 
 - Udemy - Practical software testing course
+- Promity - Agile Scrum Foundation
+
