@@ -8,9 +8,10 @@ I am a biotechnology student (FBBB at Jagiellonian University) and bioinformatic
 
 ## Tools
 
-- Data analysis: Python (numpy, pandas, sklearn, plotly), R, BASH, Snakemake
+- Data analysis: Python (numpy, pandas, sklearn, plotly), R, BASH, Snakemake, Nextflow
 - Testing: JIRA, TestLink, BrowserStack, GIT, HTML5, CSS
 - Markup: Markdown, $\LaTeX$
+- Other: Slurm, AWS
 
 ## Courses
 
