@@ -1,5 +1,5 @@
 ## Hi there! :raised_hands:
-I am a biotechnology student (FBBB at Jagiellonian University) and bioinformatics enthusiast. In addition to my studies, I am doing an internship at Pawel Labaj's bioinformatics team at the Malopolska Center for Biotechnology My interests are primarily focused on biological data analysis, especially associated with fungi and mycobiome. Besides, I am a self-taught software tester. 
+I am a PhD student in bioinformatics (IIMCB, Warsaw), now focusing on single-cell RNA sequencing. I have experience in working with bacteria, phage, plan, fungi, mouse and human data. I was working with genomics, metagenomics, transcriptomics and pipeline development. Now I am working with sc data RNA-seq, metabolomics and much more!
 
 ## Contact
 
@@ -8,7 +8,7 @@ I am a biotechnology student (FBBB at Jagiellonian University) and bioinformatic
 
 ## Tools
 
-- Data analysis: Python (numpy, pandas, sklearn, plotly), R, BASH, Snakemake, Nextflow
+- Data analysis: Python, R, BASH, Snakemake, Nextflow
 - Testing: JIRA, TestLink, BrowserStack, GIT, HTML5, CSS
 - Markup: Markdown, $\LaTeX$
 - Other: Slurm, AWS
